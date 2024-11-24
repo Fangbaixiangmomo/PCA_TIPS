@@ -1,0 +1,3 @@
+# READ ME
+We conducted an analysis based on the traditional Heath-Jarrow-Merton Model. By the non-arbitrage assumption we assert, the stochastic differential of a forward rate for a specific security is therefore uniquely determined by the volatility function and its integral. In this notebook, we wish to recognize the volatility structure implied by the data. <br/>
+The data is obtained via <a href="https://www.federalreserve.gov/data/tips-yield-curve-and-inflation-compensation.htm" style="text-decoration: underlin;">here</a>. Only `TIPSXX` data are used for this analysis, hence the notebook is welcome to be modified on augumented dataset with theoretical need.
